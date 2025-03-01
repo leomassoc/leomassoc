@@ -5,7 +5,7 @@
 - <b>Python(Pandas, Plotnine, etc)</b>
   - [Impact of Educational Institutions on Welfare](https://github.com/leomassoc/LSE-DS105L-Data-Detectives)
 - <b>R studio(R Studio(ggplot2, and data.table)</b>
-  - [What Drives Someone to do Ridesharing](https://github.com/leomassoc/Leo_Portfolio/blob/main/MassachusettsUber.R) <b><i>(Potentially NSFW)</b></i>
+  - [What Drives Someone to do Ridesharing](https://github.com/leomassoc/Leo_Portfolio/blob/main/MassachusettsUber.R) 
 - <b>SQL</b>
   - [Importing, tidying, and transforming Nashville,TN Listing Data](https://github.com/leomassoc/Leo_Portfolio/blob/main/NashvilleQuery.sql)
   - [Importing and cleaning COVID-19 Data for visualization](https://github.com/leomassoc/Leo_Portfolio/blob/main/COVID_Portfolio_Project.sql)
