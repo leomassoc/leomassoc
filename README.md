@@ -10,7 +10,7 @@
   - [Importing, tidying, and transforming Nashville,TN Listing Data](https://github.com/leomassoc/Leo_Portfolio/blob/main/NashvilleQuery.sql)
   - [Importing and cleaning COVID-19 Data for visualization](https://github.com/leomassoc/Leo_Portfolio/blob/main/COVID_Portfolio_Project.sql)
 
-<h2>📺 Movie Reviews Pagess</h2>
+<h2>📺 My Movie Reviews</h2>
 
 - [Letterboxd](https://letterboxd.com/Leoo12/)
 - [IMDb](https://www.imdb.com/user/ur164780612/?ref_=ext_shr_lnk)
