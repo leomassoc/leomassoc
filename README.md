@@ -1,9 +1,10 @@
 <h1>Hi, I'm Leo! <br/><a href="https://github.com/leomassoc">Data Scientist</a>
 
-<h2>👨‍💻 Data Science Project:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python(Pandas, Plotnine, etc)</b>
   - [Impact of Educational Institutions on Welfare](https://github.com/leomassoc/LSE-DS105L-Data-Detectives)
+  - [What are predictors that a movie becomes a blockbuster?](https://github.com/leomassoc/Leo_Portfolio/blob/main/Movie%20Correlation%20Project.ipynb)
 - <b>R studio(ggplot2, and data.table)</b>
   - [What Drives Someone to do Ridesharing](https://github.com/leomassoc/Leo_Portfolio/blob/main/MassachusettsUber.R) 
 - <b>SQL</b>
