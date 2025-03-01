@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leo! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>
+<h1>Hi, I'm Leo! <br/><a href="https://github.com/leomassoc">Data Scientist</a>
 
 <h2>👨‍💻 Data Science Project:</h2>
 
